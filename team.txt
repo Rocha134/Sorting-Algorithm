@@ -1,0 +1,7 @@
+Equipo y partes que hizo cada quien:
+
+Iker Guerrero González A00830026: Algoritmo de ordenamiento, algoritmo de búsqueda, Función Switch
+
+Aldo Mauricio Cruz Lozada A01732372: Función switch y función MesInt
+
+Francisco Rocha Juárez A01730560: Implementación del main, algoritmo de ordenamiento, archivo sorted.txt
